@@ -12,6 +12,6 @@ npm start
 npm i
 node index.js
 
--> cd .\client\
+-> cd .\client \
 npm i
 npm start
